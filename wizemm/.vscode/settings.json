@@ -1,0 +1,11 @@
+{
+    "terminal.integrated.automationProfile.windows": {
+    
+    },
+    "cSpell.enableFiletypes": [
+        "editorconfig"
+    ],
+    "vue3snippets.enable-compile-vue-file-on-did-save-code": true,
+    "atlascode.bitbucket.enabled": false,
+    "atlascode.jira.enabled": false
+}
